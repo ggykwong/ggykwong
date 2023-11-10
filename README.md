@@ -1,7 +1,7 @@
 ### Hello! 👋
 - 🌱 I’m currently learning PostgreSQL, R, and the fundamentals of AI and ML.
 - 📫 Find me on LinkedIn: [linkedin.com/in/gwendolyn-kwong](https://www.linkedin.com/in/gwendolyn-kwong/)
-- ⚡ Interests: reading, language-learning, graphic design, soccer, and cooking!
+- ⚡ Interests: coding, reading, language-learning, graphic design, soccer, and cooking!
 <!--
 **ggykwong/ggykwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
