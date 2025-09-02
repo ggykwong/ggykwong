@@ -1,6 +1,6 @@
 ### Hello! 👋
-- 🎓 I'm double-majoring in mathematics and statistics at the University of Toronto.
-- 🌱 I’m currently learning PostgreSQL, R, and the fundamentals of AI and ML.
+- 🎓 I recently finished my students in Mathematics and Statistics at the University of Toronto.
+- 🌱 I’m currently learning PostgreSQL, R, VBA, and data analysis with Python libraries.
 - 📫 Find me on LinkedIn: [linkedin.com/in/gwendolyn-kwong](https://www.linkedin.com/in/gwendolyn-kwong/)
 - ⚡ Interests: coding, reading, language-learning, graphic design, soccer, and cooking!
 <!--
